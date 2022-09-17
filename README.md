@@ -119,9 +119,9 @@
 以下ファイルを参照してください。  
 
 ・Word No1～Word No100  
-<https://github.com/Masaki0625/LINEChatBotForQuotations-Repo/blob/main/Quotations_WordList1.md>
+<https://github.com/Masaki0625/LINEChatBotForQuotations-Repo/blob/main/Quotations_WordList1.md>  
 ・Word No101～Word No142  
-<https://github.com/Masaki0625/LINEChatBotForQuotations-Repo/blob/main/Quotations_WordList2.md>
+<https://github.com/Masaki0625/LINEChatBotForQuotations-Repo/blob/main/Quotations_WordList2.md>  
 
 # 名言チャットボットの追加
 ![名言チャットボット](https://github.com/Masaki0625/LINEChatBotForQuotations-Repo/blob/main/L_gainfriends_qr.png)
