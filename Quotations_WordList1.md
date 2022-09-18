@@ -1,5 +1,5 @@
 | No         | Name        | Japanease Quotations | English Quotations |
-|:-----------|------------:|:--------------------:|:------------:|
+|:-----------:|:------------:|:--------------------:|:------------:|
 | 1          |ココ・シャネル| 翼を持たずに生まれてきたのなら、翼をはやすためにどんな障害も乗り越えなさい|If you were born without wings, do nothing to prevent them from growing.|
 | 2          |ウォルト・ディズニー|追いかけ続ける勇気さえあれば、夢は必ず叶います|       All your dreams can come true, if we have the courage to pursue them.|
 | 3          |マリリン・モンロー|時に、バラバラに壊れてしまうこともあるかもしれません。でもそのおかげで、それ以上に良いことが訪れるんです|Sometimes things fall apart so that better things can fall together.|
