@@ -1,5 +1,5 @@
 | No         | Name        | Japanease Quotations | English Quotations |
-|:-----------|------------:|:--------------------:|:------------:|
+|:-----------:|:------------:|:--------------------:|:------------:|
 |101         |セオドア・ルーズベルト|自分ならできると信じれば、もう半分は終わったようなものだ。|Believe you can and you’re halfway there.|
 |102         |マイケル・ジョーダン|成功することを学ぶには、まず失敗することを学ばねばならない。|To learn to succeed, you must first learn to fail.|
 |103         |ホーキング博士|人生は、できることに集中することであり、できないことを悔やむことではない。|I try to lead as normal a life as possible, and not regret the things it prevents me from doing.|
