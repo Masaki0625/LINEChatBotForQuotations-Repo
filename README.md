@@ -115,7 +115,7 @@ LINEの仕様上、一つの入力キーワードにつき、応答可能なメ�
 その為、名前の後に半角で数字を入力することで他の名言を閲覧することが可能になります。
 
 # 集約名言総数
-2022年9月17日時点で142ワードとなっています。  
+2022年9月25日時点で200ワードとなっています。  
 また、今後アップデートにより機能追加やワードが増えていく予定です。
 
 # 集約名言
@@ -123,7 +123,7 @@ LINEの仕様上、一つの入力キーワードにつき、応答可能なメ�
 
 ・Word No1～Word No100  
 <https://github.com/Masaki0625/LINEChatBotForQuotations-Repo/blob/main/Quotations_WordList1.md>  
-・Word No101～Word No142  
+・Word No101～Word No200  
 <https://github.com/Masaki0625/LINEChatBotForQuotations-Repo/blob/main/Quotations_WordList2.md>  
 
 # 名言チャットボットの追加
